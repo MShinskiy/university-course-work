@@ -1,5 +1,6 @@
 ## Course work
 #### Modules:
+* [CE301 - Capstone Project (MatLab)](https://gitlab.com/c287/ce301-shinskiy-maxim)
 * [CE303 - Advanced Programming (Java/C#)](https://github.com/MShinskiy/university-course-work/tree/main/CE303)
 * [CE310 - Evolutionary Computation and Genetic Programming (Python)](https://github.com/MShinskiy/university-course-work/tree/main/CE310)
 * [CE315 - Robotics (C/C++)](https://github.com/MShinskiy/university-course-work/tree/main/CE315)
